@@ -1,0 +1,2383 @@
+[
+    {
+        "_id" : "1",
+        "name" : "Roseate House",
+        "city_name" : "New Delhi",
+        "city":"1",
+        "locality" : "Aerocity, New Delhi",
+        "thumb": "https://i.ibb.co/pv8Kf4m/roseate.jpg",
+        "cost": 8399, 
+        "address":"Plot No 10, GMR Hospitality District, Indira Gandhi International Airport, Aerocity",
+        "type":[
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
+
+            ]
+    },
+    {
+        "_id" : "2",
+        "name" : "Pride Plaza Hotel ",
+        "city_name" : "New Delhi",
+        "city":"1",
+        "locality" : "Aerocity, New Delhi",
+        "thumb": "https://tse3.mm.bing.net/th?id=OIP.P2JdH4nFoS9pCtpAxHd7VwHaEo&pid=Api&P=0",
+        "cost": 4000, 
+        "address":"Asset 5-A, Hospitality District, Aerocity, IGI Airport , New Delhi",
+        "type":[
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                },
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
+
+            ]
+    },
+    {
+        "_id" : "3",
+        "name" : "The Piccadily",
+        "city_name" : "New Delhi",
+        "city":"1",
+        "locality" : "Janakpuri, New Delhi",
+        "thumb": "https://i.ibb.co/QD1RRBk/piccadily.jpg",
+        "cost": 5170, 
+        "address":"Janakpuri, District Centre Complex, Near Janak Puri West Metro Station",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "4",
+        "name" : "The Ashtan Sarovar Portico",
+        "city_name" : "New Delhi",
+        "city":"1",
+        "locality" : "Greenpark, New Delhi",
+        "thumb": "https://i.ibb.co/TbVsznT/sarovar.jpg",
+        "cost": 8399, 
+        "address":"C2, Green park Extension, Green Park Extn, Behind Gurudwara, Nr Greenpark Metro Station, New Delhi",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "5",
+        "name" : "The Taj Mahal Palace",
+        "city_name" : "Mumbai",
+        "city":"2",
+        "locality" : "Apollo Bunder, Mumbai",
+        "thumb": "https://i.ibb.co/W0z1JCF/tajmahal.jpg",
+        "cost": 16500, 
+        "address":"Apollo Bunder, Mumbai, Maharashtra",
+        "type":[
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "6",
+        "name" : "Rodas - An Ecotel Hotel",
+        "city_name" : "Mumbai",
+        "city":"2",
+        "locality" : "Powai, Mumbai",
+        "thumb": "https://i.ibb.co/N1Hztfy/rodas.jpg",
+        "cost": 4254, 
+        "address":"Central Avenue, Hiranandani Gardens, Powai, Mumbai - 400076",
+        "type":[
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                },
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "7",
+        "name" : "ITC Maratha",
+        "city_name" : "Mumbai",
+        "city":"2",
+        "locality" : "Andheri, Mumbai",
+        "thumb": "https://i.ibb.co/55nZq20/itcmaratha.jpg",
+        "cost": 8399, 
+        "address":"Sahar, Andheri (E) Mumbai Maharashtra",
+        "type":[
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
+
+            ]
+    },
+    {
+        "_id" : "8",
+        "name" : "Trident Nariman Point",
+        "city_name" : "Mumbai",
+        "city":"2",
+        "locality" : "Nariman Point, Mumbai",
+        "thumb": "https://i.ibb.co/p3Dhc3q/trident.jpg",
+        "cost": 4000, 
+        "address":"CR 2 Nariman Point, Netaji Subhash Chandra Bose Road",
+        "type":[
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                },
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
+
+            ]
+    },
+    {
+        "_id" : "9",
+        "name" : "Hotel Sayaji",
+        "city_name" : "Pune",
+        "city":"3",
+        "locality" : "Wakad, Pune",
+        "thumb": "https://i.ibb.co/6FLGh3D/Syaji.jpg",
+        "cost": 3479, 
+        "address":"135/136, Mumbai-Bangalore Bypass Highway, Wakad, Pune",
+        "type":[
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
+
+            ]
+    },
+    {
+        "_id" : "10",
+        "name" : "Amanora The Fern Hotels",
+        "city_name" : "Pune",
+        "city":"3",
+        "locality" : "Magarpatta, Pune",
+        "thumb": "https://i.ibb.co/y0mPTXx/amanora.jpg",
+        "cost": 3455, 
+        "address":"177/1/A,Sadesatara Nali,Amanora Park Town, Magarpatta Road, Hadapsar.pune",
+        "type":[
+                    {
+                        "roomtype":"1",
+                        "name":"Deluxe Room"
+                    },
+                    {
+                        "roomtype":"2",
+                        "name": "Premiere Rooms"
+                    },
+                    {
+                        "roomtype":"3",
+                        "name":"Budget Room"
+                    }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
+
+            ]
+    },
+    {
+        "_id" : "11",
+        "name" : "The Orchid Hotel",
+        "city_name" : "Pune",
+        "city":"3",
+        "locality" : "Hinjewadi, Pune",
+        "thumb": "https://i.ibb.co/51wD5h8/orchid.jpg",
+        "cost": 5170, 
+        "address":"Chhatrapati Shivaji Sports Complex, Pune-Bangalore Highway, Hinjewadi, Pune",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "12",
+        "name" : "The Corinthians Resort",
+        "city_name" : "Pune",
+        "city":"3",
+        "locality" : "Mohamadwadi, Pune",
+        "thumb": "https://i.ibb.co/6XzdvY2/corinthians.jpg",
+        "cost": 4924, 
+        "address":"Nyati County, NIBM Annexe, South Pune Mohamadwadi Pune",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "14",
+        "name" : "Hometel Chandigarh",
+        "city_name" : "Chandigarh",
+        "city":"4",
+        "locality" : "Industrial Area, Chandigarh",
+        "thumb": "https://i.ibb.co/dP3TZg3/hometel.jpg",
+        "cost": 2419, 
+        "address":"Plot No.147-148, Industrial Area Phase I, Near ELANTE MALL, Chandigarh",
+        "type":[
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
+
+            ]
+    },
+    {
+        "_id" : "15",
+        "name" : "Ramada Plaza",
+        "city_name" : "Chandigarh",
+        "city":"4",
+        "locality" : "Zirakpur, Chandigarh",
+        "thumb": "https://i.ibb.co/j8Wc9Dt/ramada.jpg",
+        "cost": 3455, 
+        "address":"NH 21 , Chandigarh Delhi National Highway, Zirakpur",
+        "type":[
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                },
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
+
+            ]
+    },
+    {
+        "_id" : "16",
+        "name" : "JW Marriott Chandigarh",
+        "city_name" : "Chandigarh",
+        "city":"4",
+        "locality" : "Dakshin Marg, Chandigarh",
+        "thumb": "https://i.ibb.co/9GCkYN1/jw.jpg",
+        "cost": 6599, 
+        "address":"Plot no 6, Sector 35-B, Dakshin Marg",
+        "type":[
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                },
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "17",
+        "name" : "Hotel Sapphire",
+        "city_name" : "Chandigarh",
+        "city":"4",
+        "locality" : "Zirakpur, Chandigarh",
+        "thumb": "https://i.ibb.co/r3SXhxr/sapphire.jpg",
+        "cost": 4924, 
+        "address":"NH 21, Near Airport and Railway Station and Big Bazaar, Zirakpur ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "18",
+        "name" : "DoubleTree by Hilton",
+        "city_name" : "Goa",
+        "city":"5",
+        "locality" : "Tiswadi, Goa",
+        "thumb": "https://i.ibb.co/WpwC6m5/hilton.jpg",
+        "cost": 2419, 
+        "address":"Kadamba Plateau, Panjim Old Goa Bypass Road, Velha Goa, Panaji,Tiswadi Goa",
+        "type":[
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                },
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
+
+            ]
+    },
+    {
+        "_id" : "19",
+        "name" : "Westwood Residence",
+        "city_name" : "Goa",
+        "city":"5",
+        "locality" : "Porvorim, Bardez Goa",
+        "thumb": "https://i.ibb.co/7t4nXcL/westwood.jpg",
+        "cost": 3455, 
+        "address":"264/80 Alto-Savlo,Porvorim, Bardez Goa",
+        "type":[
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
+
+            ]
+    },
+    {
+        "_id" : "20",
+        "name" : "The Leela Goa",
+        "city_name" : "Goa",
+        "city":"5",
+        "locality" : "Cavelossim, Goa",
+        "thumb": "https://i.ibb.co/pzd8Cr0/leela.jpg",
+        "cost": 6599, 
+        "address":"The Leela Goa Mobor, Cavelossim Goa",
+        "type":[
+            {
+                "roomtype":"1",
+                "name":"Deluxe Room"
+            },
+            {
+                "roomtype":"2",
+                "name": "Premiere Rooms"
+            },
+            {
+                "roomtype":"3",
+                "name":"Budget Room"
+            }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "21",
+        "name" : "The Park Baga River Goa",
+        "city_name" : "Goa",
+        "city":"5",
+        "locality" : "Bardez, Goa",
+        "thumb": "https://i.ibb.co/hfW352h/park.jpg",
+        "cost": 4924, 
+        "address":"Old Mackies SaturdayMarket, Baga- Arpora, Bardez- Goa",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "22",
+        "name" : "The Anantmaya Resort",
+        "city_name" : "Manali",
+        "city":"6",
+        "locality" : "Naggar, Manali",
+        "thumb": "https://i.ibb.co/6Xy8c2n/anantmaya.jpg",
+        "cost": 4126, 
+        "address":"Naggar road, shuru, P.o. Prini Teh, Manali, Distt kullu",
+        "type":[
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                },
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
+
+            ]
+    },
+    {
+        "_id" : "23",
+        "name" : "Vivaan - The Sun Rise",
+        "city_name" : "Manali",
+        "city":"6",
+        "locality" : "Rangri Manali",
+        "thumb": "https://i.ibb.co/QM5N7nz/vivaan.jpg",
+        "cost": 3134, 
+        "address":"Vivaan the Sunrise Resort, Kanyal-Simsa Road, Rangri, Manali",
+        "type":[
+                    {
+                        "roomtype":"1",
+                        "name":"Deluxe Room"
+                    },
+                    {
+                        "roomtype":"4",
+                        "name": "Semi Deluxe Room"
+                    },
+                    {
+                        "roomtype":"2",
+                        "name": "Premiere Rooms"
+                    }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"1",
+                    "name": "Business"
+                },
+                {
+                    "trip":"2",
+                    "name": "Holiday"
+                }
+
+            ]
+    },
+    {
+        "_id" : "24",
+        "name" : "Sterling Manali",
+        "city_name" : "Manali",
+        "city":"6",
+        "locality" : "Prini, Manali",
+        "thumb": "https://i.ibb.co/CH83bNK/sterling.jpg",
+        "cost": 6599, 
+        "address":"Manali-Naggar Highway, left bank road, Prini, Manali",
+        "type":[
+                {
+                    "roomtype":"1",
+                    "name":"Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                },
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "25",
+        "name" : "Snow Bliss",
+        "city_name" : "Manali",
+        "city":"6",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://i.ibb.co/7JFqdJv/snowbliss.jpg",
+        "cost": 2704, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "26",
+        "name" : "Snow Bliss",
+        "city_name" : "Londan",
+        "rating":"5",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/70441/pexels-photo-70441.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "27",
+        "name" : "Snow Bliss",
+        "city_name" : "Londan",
+        "rating":"4.5",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/70441/pexels-photo-70441.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "29",
+        "name" : "Snow Bliss",
+        "city_name" : "delhi",
+        "rating":"4.7",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/261395/pexels-photo-261395.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 8000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "30",
+        "name" : "Snow Bliss",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/2290753/pexels-photo-2290753.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":7000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "31",
+        "name" : "Snow Bliss",
+        "city_name" : "manali",
+        "rating":"5",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/804878/pexels-photo-804878.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":15000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "32",
+        "name" : "Snow world",
+        "city_name" : "sikkim",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/2363807/pexels-photo-2363807.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 9000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "32",
+        "name" : "hayat",
+        "city_name" : "patna",
+        "rating":"4.9",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/2057610/pexels-photo-2057610.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 12000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "33",
+        "name" : "Hapton",
+        "city_name" : "kolkata",
+        "rating":"4.8",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/1694351/pexels-photo-1694351.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":6000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "34",
+        "name" : "Lonadn villa",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/929961/pexels-photo-929961.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "35",
+        "name" : "lack side",
+        "city_name" : "new york",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/2901215/pexels-photo-2901215.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "36",
+        "name" : "US Place",
+        "city_name" : "America",
+        "rating":"5",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/1051488/pexels-photo-1051488.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":15000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "37",
+        "name" : "land of king",
+        "city_name" : "bihar",
+        "rating":"4.9",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/2869215/pexels-photo-2869215.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 8000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "38",
+        "name" : "kings of bihar",
+        "city_name" : "patna",
+        "rating":"4.5",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/3316918/pexels-photo-3316918.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":9000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "39",
+        "name" : "ITC",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/2506992/pexels-photo-2506992.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "40",
+        "name" : "city story",
+        "city_name" : "delhi",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/1714976/pexels-photo-1714976.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "41",
+        "name" : "india crwon",
+        "city_name" : "delhi",
+        "rating":"5",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/3283128/pexels-photo-3283128.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "42",
+        "name" : "Heart of India",
+        "city_name" : "nagpur",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/261229/pexels-photo-261229.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":20000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "43",
+        "name" : "kings of Indian",
+        "city_name" : "kolkata",
+        "rating":"4.4",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/2009911/pexels-photo-2009911.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 9500, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "44",
+        "name" : "Red fort",
+        "city_name" : "panjab",
+        "rating":"5",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/1813467/pexels-photo-1813467.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":15000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "45",
+        "name" : "belator height",
+        "city_name" : "banrash",
+        "rating":"5",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/14380111/pexels-photo-14380111.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":10500, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "46",
+        "name" : "life line",
+        "city_name" : "pune",
+        "rating":"4.8",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/3659681/pexels-photo-3659681.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "47",
+        "name" : "WWW",
+        "city_name" : "kolkata",
+        "rating":"4.8",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/2091760/pexels-photo-2091760.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":8000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "48",
+        "name" : "white House",
+        "city_name" : "kolkata",
+        "rating":"5",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/14265693/pexels-photo-14265693.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":18000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "49",
+        "name" : " Bliss",
+        "city_name" : "turkey",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/2983020/pexels-photo-2983020.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 25000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "50",
+        "name" : "sere panjab",
+        "city_name" : "india",
+        "rating":"5",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/14167967/pexels-photo-14167967.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":12500, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "51",
+        "name" : "cherch street",
+        "city_name" : "karnatka",
+        "rating":"5",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/12322555/pexels-photo-12322555.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10050, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "52",
+        "name" : "Snow Bliss",
+        "city_name" : "pune",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/164179/pexels-photo-164179.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10045, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "53",
+        "name" : "park hotel",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/1483146/pexels-photo-1483146.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":20000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "54",
+        "name" : "Snow Bliss",
+        "city_name" : "kolkata",
+        "rating":"5",
+        "locality" : "Shuru, Manali",
+        "thumb":"https://images.pexels.com/photos/1125759/pexels-photo-1125759.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "55",
+        "name" : "DRDONB",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/1152848/pexels-photo-1152848.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "56",
+        "name" : "Snow Bliss",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/984868/pexels-photo-984868.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "57",
+        "name" : "Snow Bliss",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/12541991/pexels-photo-12541991.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "58",
+        "name" : "Snow Bliss",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/4947042/pexels-photo-4947042.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "28",
+        "name" : "Snow Bliss",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/2869215/pexels-photo-2869215.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "60",
+        "name" : "Snow Bliss",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/9056672/pexels-photo-9056672.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "cost": 5000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "61",
+        "name" : "Snow Bliss",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/4112234/pexels-photo-4112234.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "62",
+        "name" : "Snow Bliss",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/3935353/pexels-photo-3935353.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "63",
+        "name" : "Snow Bliss",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/12404352/pexels-photo-12404352.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "cost": 5820, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "64",
+        "name" : "Snow Bliss",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/7166552/pexels-photo-7166552.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "65",
+        "name" : "Snow Bliss",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/5378699/pexels-photo-5378699.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "66",
+        "name" : "Snow Bliss",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/9119725/pexels-photo-9119725.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    },
+    {
+        "_id" : "67",
+        "name" : "Snow Bliss",
+        "city_name" : "kolkata",
+        "rating":"4.3",
+        "locality" : "Shuru, Manali",
+        "thumb": "https://images.pexels.com/photos/2661486/pexels-photo-2661486.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost": 10000, 
+        "address":"Shuru, nagar Road,distt kullu Near Armaan resorts ",
+        "type":[
+                {
+                    "roomtype":"3",
+                    "name":"Budget Room"
+                },
+                {
+                    "roomtype":"4",
+                    "name": "Semi Deluxe Room"
+                },
+                {
+                    "roomtype":"2",
+                    "name": "Premiere Rooms"
+                }
+
+            ]  ,
+        "tripType":[
+                {
+                    "trip":"4",
+                    "name": "Luxury"
+                },
+                {
+                    "trip":"3",
+                    "name": "Travel"
+                }
+
+            ]
+    }
+
+
+]
+
+
+
