@@ -1,0 +1,128 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+   
+}
+#navbar>div:first-child img{
+  width: 250px;
+  /* height: 60px; */
+  margin-left: -70px;
+}
+#navbar>div:last-child{
+    width: 29%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+#navbar>div:last-child h3{
+    
+    font-size:15px;
+    font-weight: 600;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 90px;
+   
+}
+#navbar>div:last-child h3:hover{
+    border-radius:20px;
+    background-color:#e8e9f4;
+}
+#navbar>div:last-child>h3:nth-child(4){
+    width: 75px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+                                   /* navbar alll css end here **/
+
+#menu_container{
+    width: 73%;
+    /* border: 1px solid red; */
+    /* height: 70px; */
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    grid-template-rows: 51px;
+    gap: 10px;
+    margin-top: 27px;
+    justify-content: center;
+    align-items: center;
+}
+#menu_container>div{
+    border: 1px solid black;
+    border-radius: 15px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content:space-between;
+    padding: 0px 10px 0px 10px;
+    font-size:16px;
+    font-weight: 600;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#menu_container>div:hover{
+    background-color: black;
+    color: white;
+}
+#menu_container>div:last-child>span:last-child{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+#box{
+    width: 300px;
+    border: 1px solid black;
+
+}
+#banner{
+    width:73%;
+    margin: auto;
+    margin-top: 30px;
+}
+#banner>img{
+    position: relative;
+    width: 100%;
+    background-color:#ffc4bc;
+}
+#banner>input{
+    position: absolute;
+    top: 310px;
+    right:353px;
+    /* width: 70%; */
+    display: block;
+    width: 53%;
+    margin: auto;
+    padding: 17px;
+    border-radius: 30px;
+    border: none;
+    font-size: 18px;
+    
+}
+/*banner and nav bar end here*/
+#recent_search{
+    width: 73%;
+    margin: auto;
+    margin-top: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+}
+
+
+
+
+
