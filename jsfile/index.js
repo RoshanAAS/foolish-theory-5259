@@ -1,5 +1,17 @@
+  document.querySelector("#hotel").addEventListener("click",function(){
+      window.open("hotel.html")
+  })
+   
+  let doctitle=document.title;
+window.addEventListener("blur",function(){
+   this.document.title="come back :("
+})
 
-   fetchData()
+window.addEventListener("focus",function(){
+    this.document.title=doctitle;
+})
+
+  fetchData()
    async function fetchData(){
      try {
         let responce= await fetch("./jsfile/hoteldata.json")
@@ -125,6 +137,5 @@
       
    }
     
-
 
   
