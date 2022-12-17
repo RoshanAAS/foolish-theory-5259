@@ -6,13 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Heaven Trip:over a billion reviews and contribution for hoteal</title>
     <link rel="shortcut icon" href="./image/icons8-owl-67.png" type="image/x-icon">
-    <link rel="stylesheet" href="./cssfile/hotel.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./cssfile/signup.css">
 </head>
 <body>
     <nav id="navbar">
         <div>
-           <a href="index.html"> <img src="./image/HeavenTrip_Moment.jpg" alt=""></a>
+            <a href="index.html"><img src="./image/HeavenTrip_Moment.jpg" alt=""></a>
         </div>
           <div>
             <h3>
@@ -62,25 +61,26 @@
               d="M17.166 15.54h-9.1c-.293 0-1.011-.914-1.011-1.517V13.01h12.923L22 4.922H7.055c0-1.033-.9-2.527-2.527-2.527H2v2.022h2.528c.356 0 .5.466.505.505l.001 9.102c0 .929.579 2.192 1.479 2.932a3.011 3.011 0 00-.468 1.618 3.035 3.035 0 003.033 3.032 3.035 3.035 0 002.86-4.045h2.369a3.035 3.035 0 002.859 4.045 3.035 3.035 0 003.033-3.032 3.036 3.036 0 00-3.033-3.034zM7.055 6.943h12.354l-1.011 4.044H7.055V6.943zm2.023 12.641a1.012 1.012 0 010-2.024 1.013 1.013 0 010 2.024zm8.088 0a1.012 1.012 0 110-2.024 1.012 1.012 0 010 2.024z"
             ></path>
           </svg>Basket</h3>
-          <h4 id="basket_count">0</h4>
           </div>
     </nav>
-    <div id="heading">
-      <img id="image" src="" alt="error">
-      <h1>LIFE IS A JOURNEY. LIVE IT WELL.</h1>
+
+    <div id="form_container">
+        <h1>Sign Up</h1>
+        <h3>Welcome to our Heaven Trip</h3>
+        <form id="form">
+         <label>USER NAME</label><br>
+         <input type="text" id="user_name"><br>
+         <label>EMAIL ADDRESS</label><br>
+         <input type="text" id="email"><br>
+         <label>PASSWORD</label><br>
+         <input type="password" id="password">
+          <input type="submit" id="submit">
+         <h4>Already a member? <a href="signin.html">Log in</a></h4>
+         
+        </form>
     </div>
-    <div id="main_container">
-      <div>
-       <select id="filter_price">
-           <option>FILTER PRICE</option>
-           <option value="High To Low">High To Low</option>
-           <option value="Low To High">Low To High</option>
-       </select>
-      </div>
-       <div id="cart_section">
-       </div>
-    </div>
+   
     
 </body>
 </html>
-<script src="./jsfile/hotel.js"></script>
+<script src="./jsfile/signup.js"></script>

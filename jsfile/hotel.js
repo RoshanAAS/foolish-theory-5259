@@ -1,3 +1,10 @@
+document.querySelector("#basket").addEventListener("click",function(){
+    
+   window.location.href="basket.html"
+  
+})
+let bookNowData=JSON.parse(localStorage.getItem("book-now"))||[]
+document.querySelector("#basket_count").innerText=bookNowData.length
 let doctitle=document.title;
 window.addEventListener("blur",function(){
    this.document.title="come back :("
@@ -12,7 +19,6 @@ async function fetchData(){
     try {
      let responce= await fetch("./jsfile/hoteldata.json")   
      let responceData= await responce.json()
-    //    console.log(responceData)
        displayCart(responceData)
        highToLow(responceData)
     } catch (error) {
@@ -38,17 +44,17 @@ async function fetchData(){
        rating.innerText=`Rating : ${el.rating}`
     let locality=document.createElement("h4")
        locality.innerText=`Locality : ${el.locality}`
-    let cost=document.createElement("h4")
+       let cost=document.createElement("h4")
        cost.innerText=`Price : ₹${el.cost} Per Day`
     let type=document.createElement("h4")
-       type.innerText=`Type : ${el.type[1].name}`
+    type.innerText=`Type : ${el.type[1].name}`
     let bookNow=document.createElement("button")
         bookNow.innerText="Book Now"
         bookNow.setAttribute("class","booknow")
 
         bookNow.addEventListener("click",function(){
-         let bookNowData=JSON.parse(localStorage.getItem("book-now"))||[]
-
+       
+        
              let isavlable=false;
 
              bookNowData.forEach(function(element){
@@ -68,6 +74,7 @@ async function fetchData(){
                 bookNowData.push(el)
                 localStorage.setItem("book-now",JSON.stringify(bookNowData))
                 alert("Successfully Added in Basket")
+                document.querySelector("#basket_count").innerText=bookNowData.length
              }
            console.log(index)
         })
@@ -112,3 +119,23 @@ async function fetchData(){
        })
 
    }
+    let bannerArray=["./image/pexels-pixabay-271643.jpg",
+                    "./image/pexels-dada-design-12277293.jpg",
+                    "./image/pexels-pixabay-262048.jpg",
+                    "./image/pexels-pixabay-271624.jpg",
+                    "./image/pexels-pixabay-271643.jpg"]
+                    let count=0
+         function changeImage()
+         {
+              let sildimag=document.querySelector("#image")
+              sildimag.setAttribute("src",bannerArray[count])
+              count++
+              if(count==4)
+                {
+                 count=0
+                }
+          }
+setInterval(changeImage,1000)
+
+
+ 

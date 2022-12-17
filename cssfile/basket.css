@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position:fixed;
+    top:0px;
+    left: 0px;
+    z-index: 9999;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    width: 100%;
+    background-color: white;
+   
+}
+#navbar>div:first-child img{
+  width: 250px;
+  /* height: 60px; */
+  margin-left: -70px;
+}
+#navbar>div:last-child{
+    width: 29%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+#navbar>div:last-child h3{
+    
+    font-size:15px;
+    font-weight: 600;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 90px;
+    color: rgb(97, 89, 89);
+   
+}
+#navbar>div:last-child h3:hover{
+    border-radius:20px;
+    background-color:#e8e9f4;
+}
+#navbar>div:last-child>h3:nth-child(4){
+    width: 75px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+#basket_container{
+    width: 100%;
+    margin-top: 80px;
+}
+#basket{
+    width: 50%;
+    height: 430px;
+    margin: auto;
+   
+}
+#cart{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    padding: 20px;
+}
+#cart img{
+    width: 99%;
+    height: 300px;
+}
+#cart input{
+  width: 350px;
+  padding: 8px;
+  margin-left: 5px;
+  margin-bottom: 10px;
+  border:2px solid #cc0000;
+
+}
+#cart span{
+    margin-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+#remove{
+    position: relative;
+    top: 12px;
+    left: 195px;
+    padding: 10px 30px 10px 30px;
+    font-size: 17px;
+    color: white;
+    border: none;
+    background-color: 
+    #cc0000;
+}
+#book{
+    position: relative; 
+    top: 12px;
+    right: 195px;
+    padding: 10px 30px 10px 30px; 
+    font-size: 15px;
+    background-color: green;
+    border: none;
+    color: white;
+}
+#basket_count{
+    text-align: center;
+    position: relative;
+    right: 70px;
+    color:white;
+    font-size: 14px;
+    width: 20px;
+    height: 20px;
+    background-color:#cc0000;
+    border-radius: 15px;
+}

@@ -71,7 +71,7 @@
     position: relative;
     bottom: 200px;
     color:white;
-    font-size:45px;
+    font-size:30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  }
  #main_container{
@@ -142,5 +142,16 @@
    font-size: 17px;
    font-family: 'Times New Roman', Times, serif;
  }
+ #basket_count{
+   text-align: center;
+   position: relative;
+   right: 70px;
+   color:white;
+   font-size: 14px;
+   width: 20px;
+   height: 20px;
+   background-color:#cc0000;
+   border-radius: 15px;
+}
 
 
