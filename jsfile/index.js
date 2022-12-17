@@ -1,5 +1,10 @@
   document.querySelector("#hotel").addEventListener("click",function(){
-      window.open("hotel.html")
+      window.location.href="hotel.html"
+  })
+  document.querySelector("#basket").addEventListener("click",function(){
+    
+     window.location.href="basket.html"
+    
   })
    
   let doctitle=document.title;
