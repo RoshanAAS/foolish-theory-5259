@@ -1,3 +1,9 @@
+// document.querySelector("#basket").addEventListener("click",function(){
+
+//    window.location.href="signin.html"
+// })
+
+
 let doctitle=document.title;
 window.addEventListener("blur",function(){
    this.document.title="come back :("

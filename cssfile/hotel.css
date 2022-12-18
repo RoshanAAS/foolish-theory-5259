@@ -43,6 +43,7 @@
 #navbar>div:last-child h3:hover{
     border-radius:20px;
     background-color:#e8e9f4;
+    cursor: pointer;
 }
 #navbar>div:last-child>h3:nth-child(4){
     width: 75px;
@@ -50,8 +51,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: black;
     color: white;
+    background-color: black;
     border-radius: 20px;
 }
  /*cart section strat here /*/
@@ -136,6 +137,9 @@
    border-radius: 7px;
   
  }
+ .booknow:hover{
+   cursor: pointer;
+ }
  #filter_price{
    width: 100%;
    padding: 15px;
@@ -145,13 +149,18 @@
  #basket_count{
    text-align: center;
    position: relative;
-   right: 70px;
    color:white;
    font-size: 14px;
    width: 20px;
    height: 20px;
    background-color:#cc0000;
    border-radius: 15px;
+}
+a{
+   border: none;
+   /* background-color: black; */
+   border-radius: 20px;
+   text-decoration: none;
 }
 
 

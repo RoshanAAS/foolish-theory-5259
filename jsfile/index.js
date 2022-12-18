@@ -25,6 +25,8 @@ window.addEventListener("focus",function(){
         displayCartPageTwo(responceData)
         displayCartPageThree(responceData)
         displaycartpageFour(responceData)
+        let bookNowData=JSON.parse(localStorage.getItem("book-now"))
+        document.querySelector("#basket_count").innerText=bookNowData.length
      } catch (error) {
          console.log(error)
      } 

@@ -135,7 +135,7 @@ async function fetchData(){
                  count=0
                 }
           }
-setInterval(changeImage,1000)
+setInterval(changeImage,5000)
 
 
  

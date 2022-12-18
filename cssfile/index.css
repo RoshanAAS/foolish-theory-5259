@@ -43,8 +43,10 @@
 #navbar>div:last-child h3:hover{
     border-radius:20px;
     background-color:#e8e9f4;
+    cursor: pointer;
+    
 }
-#navbar>div:last-child>h3:nth-child(4){
+#navbar>div:last-child a{
     width: 75px;
     height: 40px;
     display: flex;
@@ -53,6 +55,8 @@
     background-color: black;
     color: white;
     border-radius: 20px;
+    text-decoration: none;
+    border: none;
 }
                                    /* navbar alll css end here **/
 
@@ -83,6 +87,7 @@
 #menu_container>div:hover{
     background-color: black;
     color: white;
+    cursor: pointer;
 }
 #menu_container>div:last-child>span:last-child{
     font-size: 30px;
@@ -496,6 +501,16 @@
  #social_media img{
     width: 28px;
 
+ }
+ #basket_count{
+    text-align: center;
+    position: relative;
+    color:white;
+    font-size: 14px;
+    width: 20px;
+    height: 20px;
+    background-color:#cc0000;
+    border-radius: 15px;
  }
 
 
